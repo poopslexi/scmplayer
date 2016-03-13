@@ -1,6 +1,6 @@
 #player,#player a{ color:transparent;  font-size:12px; font-family:Tahoma;}
 #player{ background:url(); background-position:bottom; background-color: transparent;}
-#player .mainImage{ background:transparent; }
+#player .mainImage{ background:url(http://s9.postimg.org/s0bo43mcv/autoplay.png); }
 
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
